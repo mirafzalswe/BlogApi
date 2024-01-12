@@ -90,12 +90,12 @@ To run the project using Docker:
 1. Ensure Docker is installed on your system.
 2. Build the Docker image:
     ```
-    docker build -t todoapi .
+    docker build -t blogapi .
     ```
 
 3. Run the Docker container:
     ```
-    docker run -p 8000:8000 todoapi
+    docker run -p 8000:8000 blogapi
     ```
 
 ### Local Development
@@ -140,5 +140,7 @@ Content-Type: application/json
 Contributions are welcome! If you find any issues or have suggestions, please open an [issue](https://github.com/mirafzal114/BlogApi/issues) or create a pull request.
 
 ## License
+```
+## Contributions are welcome! If you find any issues or have suggestions, please open an [issue](https://github.com/mirafzal114/BlogApi/issues) or create a pull request.
 
 
